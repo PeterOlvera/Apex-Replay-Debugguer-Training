@@ -13,7 +13,7 @@ Para realizar la depuración es necesario desplegar el código a nuestra organiz
 * Salesforce Org
 
 ## Instalación
-Para realizar el despliegue de este código en nuestra organización es necesario tener previamente condifurado nuestro IDE Visual Studio Code y tener acceso a una Organización de login.salesforce.com
+Para realizar el despliegue de este código en nuestra organización es necesario tener previamente configurado nuestro IDE Visual Studio Code y tener acceso a una Organización de login.salesforce.com
 Pasos para realizar el despliegue de los recursos:
 
 * Clonar el repositorio 
